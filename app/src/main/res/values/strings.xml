@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">URL Scanner</string>
+    <string name="camera_is_required_1">Please enable camera under App Permissions</string>
+    <string name="enable_camera_permission_button_2">OK</string>
+    <string name="enable_camera_permission_title_3">Enable Camera</string>
+    <string name="enable_camera_permission_content_4">Application requires you to grant camera permission, Would you like to proceed?</string>
+    <string name="enable_camera_permission_button_5">No</string>
+</resources>

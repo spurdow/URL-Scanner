@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="ltr_margin">16dp</dimen>
+    <dimen name="b_margin">64dp</dimen>
+    <dimen name="camera_error_content">24sp</dimen>
+</resources>
